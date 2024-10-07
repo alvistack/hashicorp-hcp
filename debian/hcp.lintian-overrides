@@ -1,0 +1,6 @@
+hcp: copyright-without-copyright-notice
+hcp: initial-upload-closes-no-bugs
+hcp: no-manual-page
+hcp: shared-library-lacks-prerequisites
+hcp: statically-linked-binary
+hcp: zero-byte-file-in-doc-directory
